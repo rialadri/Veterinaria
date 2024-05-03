@@ -1,4 +1,4 @@
-# Vetinaria
+# Veterinaria
  
 Desarrollar una aplicación Java que permita gestionar la información de una clínica veterinaria. La aplicación debe cumplir con los principios de la programación orientada a objetos (POO), incluyendo la creación de clases, objetos, herencia, polimorfismo y encapsulamiento.
 
