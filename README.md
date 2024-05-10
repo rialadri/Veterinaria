@@ -12,7 +12,6 @@ La aplicación debe permitir crear, modificar y eliminar animales.
 La aplicación debe permitir registrar y consultar el historial médico de los animales.
 La aplicación debe permitir crear, modificar y eliminar veterinarios y personal administrativo.
 La aplicación debe permitir asignar veterinarios y personal administrativo a los animales.
-La aplicación debe generar informes sobre el historial médico de los animales, la actividad de los veterinarios y el personal administrativo, y la facturación de los servicios prestados.
 Principios de POO que se deben aplicar:
 
 Clases:
